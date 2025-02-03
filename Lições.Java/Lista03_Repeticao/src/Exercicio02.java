@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercicio01 {
+public class Exercicio02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -79,7 +79,6 @@ public class Exercicio01 {
 
                 default:
                     System.out.println("Opção inválida. Por favor, escolha uma opção válida.");
-
             }
         }
     }
